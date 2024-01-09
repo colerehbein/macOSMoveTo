@@ -4,7 +4,13 @@ Adds a macOS Quick Action to move files to a specified destination.
 After being very disappointed by [this thread](https://discussions.apple.com/thread/254648745?sortBy=best), I asked chatGPT to solve the problem. It produced this functioning automation with AppleScript.
 
 To install:
+
 Download and unzip the .zip file and install the workflow into Automator. 
+
+
+To use:
+
+Right-click on folder or file you'd like to move in Finder. Under "quick services," click "Move to..." and select the new desired location in the pop-up Finder window.
 
 Here's a screenshot of what it looks like:
 
