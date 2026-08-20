@@ -1,3 +1,5 @@
+
+
 # macOSMoveTo
 
 A macOS Finder Quick Action that adds the missing "Move to..." command: right-click a file or folder, pick a destination, and Finder moves it there.
@@ -10,7 +12,7 @@ Finder has never shipped a built-in "Move to..." action — a gap documented in 
 
 ## Install
 
-Download and unzip the .zip file, then open the workflow in Automator to install it.
+Download and unzip the .zip file, then open the resulting .workflow file in Automator to install it.
 
 ## Use
 
